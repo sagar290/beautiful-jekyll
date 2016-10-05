@@ -28,7 +28,7 @@ navbar-links:
     - Beautiful Jekyll: "https://sagar290.github.io/myBlog"
     - Learn markdown: "https://sagar290.github.io/myBlog"
     - GitHub Pages: "https://sagar290.github.io/myBlog"
-  Author's home: "http://deanattali.com"
+  Author's home: "https://sagar290.github.io/myBlog"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
